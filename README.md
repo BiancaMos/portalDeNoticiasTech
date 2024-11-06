@@ -6,7 +6,7 @@ Bem-vindo ao **Portal de Notícias sobre Tecnologia**! Este projeto tem como obj
 
 Este portal apresenta uma interface intuitiva e limpa para os usuários se manterem atualizados com as últimas notícias sobre tecnologia.
 
-![Tela do Portal](./images/screenshot.png)
+![Tela do Portal](./assets/images/screenshot.png)
 
 ### Funcionalidades
 
