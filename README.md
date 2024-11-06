@@ -41,10 +41,10 @@ Este projeto está licenciado sob a **MIT License**.
 
 Se você tiver dúvidas ou sugestões, sinta-se à vontade para abrir uma **issue** ou me enviar uma mensagem diretamente.
 
-# 👩🏻‍💻 Desenvolvido por:
+### 👩🏻‍💻 Desenvolvido por:
 Bianca Mós
 
-# 🗓️ Nov. 2024
+### 🗓️ Nov. 2024
 
 
 
